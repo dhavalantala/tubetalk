@@ -23,6 +23,8 @@ The application uses the following steps:
 4.  **Augmentation:** Combines the retrieved chunks with the original query to create a prompt for the language model.
 5.  **Generation:** The language model generates an answer based on the augmented prompt.
 
+![Image of the TubeTalk RAG flow](images/YouTube.jpg)
+
 ## Technologies Used
 
 -   LangChain:  Framework for developing applications powered by language models.
